@@ -1,5 +1,5 @@
 {
-  "types":{
+  "types":[
   { "label": "Name", "value": "name" },
   { "label": "FundName", "value": "fundname" },
   { "label": "ISIN", "value": "isin" },
@@ -9,5 +9,5 @@
   { "label": "Price", "value": "price" },
   { "label": "Country", "value": "country" },
   { "label": "Date", "value": "date" },
-  }
+  ]
 }
