@@ -8,6 +8,6 @@
   { "label": "Custom", "value": "custom" },
   { "label": "Price", "value": "price" },
   { "label": "Country", "value": "country" },
-  { la"label"bel: "Date", "value": "date" },
+  { "label": "Date", "value": "date" },
   }
 }
